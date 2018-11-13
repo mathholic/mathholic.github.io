@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               집이 좋은 통통이
+title:               집순이 통통이
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -22,12 +22,12 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              hyunjikim
+  name:              hyunji kim
   email:             mathholic21@gmail.com
 
 # Fallback image and color
 image:               /assets/img/nap.jpg
-color:               '#f4c2c2'
+color:               '#f6bec5'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Lato', 'Sans-serif'"
