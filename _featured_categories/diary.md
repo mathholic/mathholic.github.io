@@ -4,7 +4,7 @@ title: Diary
 slug: diary
 menu: true
 submenu: false
-order: 1
+order: 4
 description: >
-  일기장
+  day by day
 ---

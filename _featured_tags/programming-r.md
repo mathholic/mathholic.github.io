@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Book
-slug: book
-category: etc
+title: R
+slug: r
+category: programming
 menu: false
 order: 1
 ---
