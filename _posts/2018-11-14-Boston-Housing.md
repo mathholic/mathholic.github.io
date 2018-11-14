@@ -39,9 +39,7 @@ library("pdp")
 
 boston <- read.csv("C://Users//user//Desktop//다변량//BostonHousing.csv")
 
-colnames(boston) <- c("CRIM", "ZN","INDUS", "CHAS","NOX", "RM",
-
-                      "AGE", "DIS", "RAD", "TAX", "PTRATIO", "B", "LSTAT", "MEDV")
+colnames(boston) <- c("CRIM", "ZN","INDUS", "CHAS","NOX", "RM", "AGE", "DIS", "RAD", "TAX", "PTRATIO", "B", "LSTAT", "MEDV")
 
 ```
 
@@ -170,7 +168,6 @@ Random Forest
 
 
 ``` r
-
 library(randomForest)
 
 ```
@@ -229,7 +226,7 @@ varImpPlot(boston.rf) # Importance scores
 
 
 
-<img src="https://github.com/mathholic/mathholic.github.io/blob/master/assets/img/pdp1.png?raw=true">
+<img src="https://github.com/mathholic/mathholic.github.io/blob/master/assets/img/pdp2.png?raw=true">
 
 
 
@@ -245,8 +242,7 @@ partialPlot(boston.rf, pred.data = boston, x.var = "LSTAT")
 
 
 
-![](Boston-Housing-files/figure-markdown_github/unnamed-chunk-4-1.png)
-
+<img src="https://github.com/mathholic/mathholic.github.io/blob/master/assets/img/pdp3.png?raw=true">
 
 
 ``` r
@@ -367,7 +363,7 @@ print(boston.rf %>% partial(pred.var = "LSTAT") %>%
 
 
 
-![](Boston-Housing-files/figure-markdown_github/unnamed-chunk-4-2.png)
+<img src="https://github.com/mathholic/mathholic.github.io/blob/master/assets/img/pdp4.png?raw=true">
 
 
 
@@ -401,5 +397,5 @@ grid.arrange(boston_contour, boston_3d, ncol = 2)
 
 
 
-![](Boston-Housing-files/figure-markdown_github/unnamed-chunk-5-1.png)
+<img src="https://github.com/mathholic/mathholic.github.io/blob/master/assets/img/pdp5.png?raw=true">
 
