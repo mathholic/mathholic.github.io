@@ -229,7 +229,7 @@ varImpPlot(boston.rf) # Importance scores
 
 
 
-![](Boston-Housing-files/figure-markdown_github/unnamed-chunk-3-1.png)
+<img src="https://github.com/mathholic/mathholic.github.io/blob/master/assets/img/pdp1.png?raw=true">
 
 
 
