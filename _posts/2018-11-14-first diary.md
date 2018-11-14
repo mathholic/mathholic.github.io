@@ -7,7 +7,7 @@ tags: diary
 comments: true
 ---
 
-## Github 블로그 시작
+### Github blog 시작
 
 기존에 사용했던 네이버 블로그를 접고, 새로 깃허브 블로그를 시작.<dr>
 

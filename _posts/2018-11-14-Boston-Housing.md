@@ -7,7 +7,7 @@ tags: r
 comments: true
 ---
 
-Boston Housing Data
+Boston Housing Data를 이용하여 Random Forest 모델을 적합하고, partial dependence plot을 그려보자.
 
 ================
 
