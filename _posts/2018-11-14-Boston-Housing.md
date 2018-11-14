@@ -3,7 +3,7 @@ layout: post
 title: "Partial Dependence Plot with Boston Housing Data"
 subtitle: "R programming"
 categories: programming
-tags: R
+tags: r
 comments: true
 ---
 
@@ -229,7 +229,7 @@ varImpPlot(boston.rf) # Importance scores
 
 
 
-![](index_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](Boston-Housing-files/figure-markdown_github/unnamed-chunk-3-1.png)
 
 
 
@@ -245,7 +245,7 @@ partialPlot(boston.rf, pred.data = boston, x.var = "LSTAT")
 
 
 
-![](index_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](Boston-Housing-files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 
 
@@ -367,7 +367,7 @@ print(boston.rf %>% partial(pred.var = "LSTAT") %>%
 
 
 
-![](index_files/figure-markdown_github/unnamed-chunk-4-2.png)
+![](Boston-Housing-files/figure-markdown_github/unnamed-chunk-4-2.png)
 
 
 
@@ -401,5 +401,5 @@ grid.arrange(boston_contour, boston_3d, ncol = 2)
 
 
 
-![](index_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](Boston-Housing-files/figure-markdown_github/unnamed-chunk-5-1.png)
 

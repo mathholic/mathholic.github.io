@@ -1,24 +1,11 @@
 ---
-
 layout: post
-
-title:  "Github 블로그 시작"
-
-subtitle:   "Started" a new blog!"
-
+title: "Github 블로그 시작"
+subtitle: "2018-11-14 Diary"
 categories: diary
-
 tags: diary
-
 comments: true
-
 ---
-
-
-
-
-
-
 
 ## Github 블로그 시작
 
