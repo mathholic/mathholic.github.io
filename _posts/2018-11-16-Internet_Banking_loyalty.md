@@ -1,4 +1,14 @@
-인터넷 뱅킹 고객의 '충성도'에 미치는 변인 Factor analysis
+---
+layout: post
+title: "인터넷 뱅킹 데이터를 이용한 Factor analysis"
+subtitle: "R programming"
+categories: programming
+tags: r, Factor analysis
+commtents: true
+---
+
+Survey 데이터를 이용하여 factor analysis를 해보자.
+
 ================
 
 Settings
