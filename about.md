@@ -29,7 +29,7 @@ order: 10
 | 홍보대행사 [Prain Global](http://www.prain.com/)<br>계약 성공 결과 예측| 2018.9.28 | 데이터 전처리, 모델링, 발표| 2018 Yonsei Big Data Analysis Competition<br>**장려상(4위)**
 | [IMDB score](https://www.imdb.com/)<br> 예측| 2018.05-2018.06 	|  데이터 전처리, 분석, 발표	| 통계학회 ESC 파이널 프로젝트 **최우승** 	|
 | 시각장애인을 위한 인공지능 Img2Braille 	| 2017.06-2018.01 	| 분석, 모델링 	| BOAZ 팀 프로젝트<br>CNN, RNN 이용	|
-|Samsung Table Pay | 2017.09.09 	| 아이디어, 홍보영상 	| IdeaMixHackathon	** Funny Idea 3위**|
+|Samsung Table Pay | 2017.09.09 	| 아이디어, 홍보영상 	| IdeaMixHackathon	**Funny Idea 3위**|
 
 
 ## Study
