@@ -3,7 +3,7 @@ layout: post
 title: "인터넷 뱅킹 데이터를 이용한 Factor analysis"
 subtitle: "R programming"
 categories: programming
-tags: r, Factor analysis
+tags: r
 commtents: true
 ---
 
