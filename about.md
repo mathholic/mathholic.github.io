@@ -20,16 +20,20 @@ order: 10
 * 국내최초 빅데이터 동아리 BOAZ 운영지원팀장
   (2017.01 ~ 2018.01)
 * 서울대학교 딥러닝 동아리 SHAAI(2017.06 ~ 2017.08)
-* 연세대학교 통계학회 ESC 부회장 (2018.03 ~ 현재)
+* 연세대학교 통계학회 ESC 부회장 (2018.03 ~ 2018.12)
+* 연세대학교 응용통계학과 대학원(2019.03~ 예정)
 
 ## Projects
 
 | 프로젝트명 	| 기간 	|  역할 	| 설명 	|
 |-----------------------------------------|-------------|----------------------------|---------------------------------------------------	|
+|US 인구 100K당 범죄수 예측|2018-11|EDA, feature selection|PCA(Principal Component Analysis), FA(Factor Analysis) 적용
+|경마 주행기록 예측|2018.11-2018.12|EDA, 데이터 모델링| SAS-E-MINER, R 모델 비교|
 | 홍보대행사 [Prain Global](http://www.prain.com/)<br>계약 성공 결과 예측| 2018.9.28 | 데이터 전처리, 모델링, 발표| 2018 Yonsei Big Data Analysis Competition<br>**장려상(4위)**
 | [IMDB score](https://www.imdb.com/)<br> 예측| 2018.05-2018.06 	|  데이터 전처리, 분석, 발표	| 통계학회 ESC 파이널 프로젝트 **최우승** 	|
 | 시각장애인을 위한 인공지능 Img2Braille 	| 2017.06-2018.01 	| 분석, 모델링 	| BOAZ 팀 프로젝트<br>CNN, RNN 이용	|
 |Samsung Table Pay | 2017.09.09 	| 아이디어, 홍보영상 	| IdeaMixHackathon	**Funny Idea 3위**|
+
 
 
 ## Study
