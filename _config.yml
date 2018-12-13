@@ -27,7 +27,7 @@ author:
 
 # Fallback image and color
 image:               /assets/img/nap.jpg
-color:               '#f6bec5'
+color:               '#ff6F61'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Open Sans', 'Sans-serif'"
